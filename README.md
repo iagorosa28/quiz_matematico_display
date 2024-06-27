@@ -1,3 +1,5 @@
+> O repositório oficial está na conta da Mariah-Gomes; eu apenas o repostei no meu também.
+
 # Quiz Matemático Display
 
 > Status do projeto: Finalizado
