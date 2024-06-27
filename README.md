@@ -1,4 +1,4 @@
-> O repositório oficial está na conta da Mariah-Gomes; eu apenas o repostei no meu também.
+> O repositório oficial está na conta da Mariah-Gomes; eu apenas o repostei na minha também.
 
 # Quiz Matemático Display
 
